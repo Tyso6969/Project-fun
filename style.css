@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://th.bing.com/th/id/OIP.iAGdViPBCPH_p5Tl_nX9ywHaEK?pid=ImgDet&rs=1");
+    background-size: cover;
+    color: aliceblue;
+    text-align: space-between;
+}  
+button{
+    border-radius: 75px;
+    border-width: 1px;
+    width: 75px;
+    height: 25px;
+}
+img{
+    border-radius: 125px;
+    border-width: 5px;
+    height: 200px;
+    width: 200px;
+}
